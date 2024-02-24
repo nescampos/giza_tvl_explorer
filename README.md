@@ -2,10 +2,10 @@
 
 **Giza TVL Explorer** is a small tool built with Python, to analize the liquidity and fees in chains and dApps, using [Giza Datasets](https://datasets.gizatech.xyz/).
 With Giza TVL Explorer, you can:
-- Analyze the liquidity by chain (like Ethereum, polygon, etc.) or by category (Liquid Staking for example), or by dApp (Uniswap, SushiSwap, etc.).
-- Analyze the fees by chain (like Ethereum, polygon, etc.) or by category (Liquid Staking for example), or by dApp (Uniswap, SushiSwap, etc.).
-- Compare the liquidity between 2 protocols (chains, dApps, category). You can compare between a chain and a dApp, and more.
-- Compare the fees between 2 protocols (chains, dApps, category). You can compare between a chain and a dApp, and more.
+- Analyze the liquidity by chain (like Ethereum, polygon, etc.) or by category (Liquid Staking for example), or by dApp (Uniswap, SushiSwap, etc.): **You will be able to see the sum of liquidity and a plot by date.**
+- Analyze the fees by chain (like Ethereum, polygon, etc.) or by category (Liquid Staking for example), or by dApp (Uniswap, SushiSwap, etc.): **You will be able to see the sum of fees and a plot by date.**
+- Compare the liquidity between 2 protocols (chains, dApps, category). You can compare between a chain and a dApp, and more: **You will be able to see the sum of liquidity in the 2 protocols and a plot by date and protocol.**
+- Compare the fees between 2 protocols (chains, dApps, category). You can compare between a chain and a dApp, and more: **You will be able to see the sum of fees in the 2 protocols and a plot by date and protocol.**
 
 ## How to use
 
