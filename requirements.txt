@@ -1,0 +1,3 @@
+giza_datasets
+pandas
+matplotlib
